@@ -1,3 +1,3 @@
 # DigitalRecognition
 
-BP on MINST.
+A QT-based system realising BP on MINST.
