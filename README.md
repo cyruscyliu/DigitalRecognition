@@ -1,1 +1,3 @@
 # DigitalRecognition
+
+BP on MINST.
